@@ -1,2 +1,1 @@
-# Python_bank_application
- School project
+School assignment to create a bank application in jupyter notebook.
