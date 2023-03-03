@@ -1,1 +1,1 @@
-School assignment to create a bank application in jupyter notebook.
+School assignment to create an application with the features of a bank in jupyter notebook.
